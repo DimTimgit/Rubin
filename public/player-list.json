@@ -1,0 +1,209 @@
+[
+    {
+        "id": 0 ,
+        "name": "Nikita Medvedev",
+        "avatar": "https://ia.wampi.ru/2020/11/03/Medvedev1.jpg",
+        "position": "GK",
+        "injury": 1,
+        "number": 1,
+        "progressbar": 93
+      },
+      {
+        "id": 1 ,
+        "name": "Yurij Dupin",
+        "avatar": "https://ia.wampi.ru/2020/11/04/Dyupin.jpg",
+        "position": "GK",
+        "injury": 0,
+        "number": 22,
+        "progressbar": 83
+      },
+      {
+        "id": 2 ,
+        "name": "Ivan Konovalov",
+        "avatar": "https://ia.wampi.ru/2020/11/04/Konovalov_i.jpg",
+        "position": "GK",
+        "injury": 2,
+        "number": 23,
+        "progressbar": 73
+      },
+      {
+        "id": 3 ,
+        "name": "Karl Starfelt",
+        "avatar": "https://ia.wampi.ru/2020/11/04/Starfeld.jpg",
+        "position": "DF",
+        "injury": 0,
+        "number": 2,
+        "progressbar": 88
+      },
+      {
+        "id": 4 ,
+        "name": "Michail Merkulov",
+        "avatar": "https://ia.wampi.ru/2020/11/04/Merkulov.jpg",
+        "position": "DF",
+        "injury": 0,
+        "number": 3,
+        "progressbar": 54
+      },
+      {
+        "id": 5 ,
+        "name": "Silvie Begish",
+        "avatar": "https://ia.wampi.ru/2020/11/04/Begich.jpg",
+        "position": "DF",
+        "injury": 1,
+        "number": 4,
+        "progressbar": 97
+      },
+      {
+        "id": 6 ,
+        "name": "Filiph Uremovich",
+        "avatar": "https://ia.wampi.ru/2020/11/04/Uremovich.jpg",
+        "position": "DF",
+        "injury": 0,
+        "number": 5,
+        "progressbar": 98
+      },
+      {
+        "id": 7 ,
+        "name": "Alexsander Zuev",
+        "avatar": "https://ia.wampi.ru/2020/11/04/Zuev.jpg",
+        "position": "DF",
+        "injury": 3,
+        "number": 12,
+        "progressbar": 54
+      },
+      {
+        "id": 8 ,
+        "name": "Georgiy Zotov",
+        "avatar": "https://ia.wampi.ru/2020/11/04/Zotov.jpg",
+        "position": "DF",
+        "injury": 3,
+        "number": 31,
+        "progressbar": 78
+      },
+      {
+        "id": 9 ,
+        "name": "Ilya Samoshnikov",
+        "avatar": "https://ia.wampi.ru/2020/11/04/Samoshnikov.jpg",
+        "position": "DF",
+        "injury": 6,
+        "number": 77,
+        "progressbar": 72
+      },
+      {
+        "id": 10 ,
+        "name": "Chvan In Bom",
+        "avatar": "https://ia.wampi.ru/2020/11/04/Xvan.jpg",
+        "position": "MF",
+        "injury": 0,
+        "number": 6,
+        "progressbar": 80
+      },
+      {
+        "id": 11 ,
+        "name": "Darko Evtich",
+        "avatar": "https://ia.wampi.ru/2020/11/04/Evtich.jpg",
+        "position": "MF",
+        "injury": 0,
+        "number": 8,
+        "progressbar": 33
+      },
+      {
+        "id": 12 ,
+        "name": "Igorj Konovalov",
+        "avatar": "https://ia.wampi.ru/2020/11/04/Konovalov_ig.jpg",
+        "position": "MF",
+        "injury": 0,
+        "number": 10,
+        "progressbar": 64
+      },
+      {
+        "id": 13 ,
+        "name": "Dmitry Tarasov",
+        "avatar": "https://ia.wampi.ru/2020/11/04/Tarasov.jpg",
+        "position": "MF",
+        "injury": 0,
+        "number": 15,
+        "progressbar": 89
+      },
+      {
+        "id": 14 ,
+        "name": "Oleg Shatov",
+        "avatar": "https://ia.wampi.ru/2020/11/04/Shatov.jpg",
+        "position": "MF",
+        "injury": 0,
+        "number": 20,
+        "progressbar": 77
+      },
+      {
+        "id": 15 ,
+        "name": "Xvicha Kvarazcheliya",
+        "avatar": "https://ia.wampi.ru/2020/11/04/Kvarazxelia.jpg",
+        "position": "MF",
+        "injury": 0,
+        "number": 21,
+        "progressbar": 94
+      },
+      {
+        "id": 16 ,
+        "name": "Denis Makarov",
+        "avatar": "https://ia.wampi.ru/2020/11/04/Makarov.jpg",
+        "position": "MF",
+        "injury": 0,
+        "number": 25,
+        "progressbar": 93
+      },
+      {
+        "id": 17 ,
+        "name": "Oliver Abildgor",
+        "avatar": "https://ia.wampi.ru/2020/11/05/ABILDGOR-removebg-preview.png",
+        "position": "MF",
+        "injury": 0,
+        "number": 28,
+        "progressbar": 89
+      },
+      {
+        "id": 18 ,
+        "name": "Soltmurad Bakaev",
+        "avatar": "https://ia.wampi.ru/2020/11/04/Bakaev.jpg",
+        "position": "MF",
+        "injury": 1,
+        "number": 87,
+        "progressbar": 68
+      },
+      {
+        "id": 19 ,
+        "name": "Djordje Despotovich",
+        "avatar": "https://ia.wampi.ru/2020/11/04/Despot.jpg",
+        "position": "FW",
+        "injury": 1,
+        "number": 9,
+        "progressbar": 45
+      },
+      {
+        "id": 20 ,
+        "name": "Kirill Klimov",
+        "avatar": "https://ia.wampi.ru/2020/11/04/Klimov.jpg",
+        "position": "FW",
+        "injury": 1,
+        "number": 13,
+        "progressbar": 89
+      },
+      {
+        "id": 21 ,
+        "name": "Ivan Ignatiev",
+        "avatar": "https://ia.wampi.ru/2020/11/04/Ignatiev.jpg",
+        "position": "FW",
+        "injury": 1,
+        "number": 19,
+        "progressbar": 75
+      },
+      {
+        "id": 22 ,
+        "name": "Kirill Kosarev",
+        "avatar": "https://ia.wampi.ru/2020/11/04/Kosarev.jpg",
+        "position": "FW",
+        "injury": 0,
+        "number": 47,
+        "progressbar": 59
+      }
+]

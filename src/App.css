@@ -1,38 +1,133 @@
-.App {
-  text-align: center;
+body {
+  margin-top: 20px;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.menu {
+  margin-bottom: 20px;
+}
+.container{
+  max-width: 84%;
+}
+.popup {
+  max-width: 400px !important;
+}
+.ui.card>.content, .ui.cards>.card>.content{
+  width: 150%;
+  height: 200px !important;
+}
+.ui.menu .item {
+    color: #050C42 !important;
+    font-size: 16px !important;
+    font-family: 'Open Sans', sans-serif !important;
+}
+.ui.secondary.menu{
+  color: #050C42 !important;
+  font-size: 16px !important;
+  font-family: 'Open Sans', sans-serif !important;
+}
+.player_name{
+  color: #050C42 !important;
+  font-size: 19px;
+  font-family: 'Open Sans', sans-serif;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.ui.card>.content>.header, .ui.cards>.card>.content>.header{
+  color: #050C42 !important;
+  font-size: 22px;
+  font-family: 'Open Sans', sans-serif;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
+.ui.card .meta, .ui.cards>.card .meta {
+  font-size: 1em;
+  color: black !important;
+  font-family: 'Open Sans', sans-serif;
+}
+.number{
+  color: #050C42 !important;
+  font-size: 12px !important;
+  font-family: 'Open Sans', sans-serif;
+}
+.injury{
+  color: #050C42 !important;
+  font-size: 12px !important;
+  font-family: 'Open Sans', sans-serif;
+}
+.date{
+  color: #050C42 !important;
+  font-size: 12px !important;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.card-image {
+  height: 200px;
+  width: 300px;
+  overflow: hidden;
+}
+
+.card-image img {
+  max-width: 95px;
+    max-height: 125px;
+}
+
+.ui.card, .ui.cards>.card{
+  width: 300px !important;
+  height: 200px;
+  flex-direction: row;
+}
+.remove_list{
+  width: 135px;
+  height: 30px;
+  color: white !important;
+  background-color: #050C42 !important;
+  font-size: 12px !important;
+  font-family: 'Open Sans', sans-serif;
+}
+.open_form{
+  width: 165px;
+  height: 27px;
+  color: white !important;
+  background-color: #050C42 !important;
+  font-size: 12px !important;
+  font-family: 'Open Sans', sans-serif;
+}
+.of{
+  margin-bottom: 10px;
+}
+.predict_form{
+  width: 165px;
+  height: 27px;
+  color: white !important;
+  background-color: #050C42 !important;
+  font-size: 12px !important;
+  font-family: 'Open Sans', sans-serif;
+}
+.select_form{
+  width: 165px;
+  height: 27px;
+  color: white !important;
+  background-color: #050C42 !important;
+  font-size: 12px !important;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.container-progressbar{
+  position: absolute;
+   bottom: 0;
+   width: 95px;
+   display: flex;
   align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  justify-content: center
 }
 
-.App-link {
-  color: #61dafb;
+.search{
+  color: #050C42 !important;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}
+
+
+input::-webkit-input-placeholder{
+color: black;
+ }
+
+
+ @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@700&display=swap');
