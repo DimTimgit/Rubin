@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
 import { Card, Container } from 'semantic-ui-react';
 import axios from 'axios';
-
 import PlayerList from '../containers/PlayerList';
 import Filter from '../containers/Filter';
 import Menu from '../containers/Menu';
