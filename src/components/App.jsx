@@ -17,7 +17,7 @@ class App extends Component {
     const { players, isReady } = this.props;
     return (
       <Container>
-        <Menu />
+        <Menu position="fixed" />
         <Filter />
         <Card.Group itemsPerRow={4}>
           {!isReady
